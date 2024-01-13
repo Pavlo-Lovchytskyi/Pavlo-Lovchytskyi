@@ -46,7 +46,7 @@ I'm a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
@@ -62,7 +62,7 @@ I'm a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![codewars](https://www.codewars.com/users/PavlikRavlik/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistic:
 
 <table>
   <tr>
