@@ -13,7 +13,7 @@ I'm a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: Studied at GoIt courses.
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Pavlo-Lovchytskyi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pavlik0907) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:pashtet664@gmail.com) [![Mail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:pastet1990@icloud.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-PavloLovchytskyi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pavlik0907) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:pashtet664@gmail.com) [![Mail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:pastet1990@icloud.com)
 
 ---
 
